@@ -1,1 +1,1 @@
-# JS-practice
+# JS-practices
