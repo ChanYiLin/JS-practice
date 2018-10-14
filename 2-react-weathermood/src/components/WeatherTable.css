@@ -1,0 +1,8 @@
+/* WeatherTable.css */
+.weather-table {
+    position: relative;
+    z-index: 100;
+    max-width: 24rem;
+    margin: 0 auto;
+    color: white;
+}
