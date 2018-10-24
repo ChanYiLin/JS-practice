@@ -1,1 +1,3 @@
-./node_module
+.gitignore
+2-react-weathermood/node_module/*
+3-react-tic-tac-toc/node_module/*
